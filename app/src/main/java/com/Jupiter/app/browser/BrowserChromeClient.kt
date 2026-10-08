@@ -1,4 +1,4 @@
-package com.Jupiter.app.browser
+package com.jupiter.app.browser
 
 import android.webkit.WebChromeClient
 import android.webkit.WebView
