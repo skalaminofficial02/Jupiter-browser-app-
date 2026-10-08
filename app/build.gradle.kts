@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.Jupiter.app"
+    namespace = "com.jupiter.app"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.Jupiter.app"
+        applicationId = "com.jupiter.app"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
