@@ -1,4 +1,4 @@
-package com.Jupiter.app.util
+package com.jupiter.app.util
 
 import android.net.Uri
 
