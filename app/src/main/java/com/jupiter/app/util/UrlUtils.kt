@@ -3,8 +3,8 @@ package com.jupiter.app.util
 import android.net.Uri
 
 object UrlUtils {
-    const val HOME = "https://duckduckgo.com"
-    private const val SEARCH = "https://duckduckgo.com/?q="
+    const val HOME = "https://jupiter-search-7cs.pages.dev"
+    private const val SEARCH = "https://jupiter-search-7cs.pages.dev/search?q="
 
     fun resolve(input: String): String {
         val text = input.trim()
